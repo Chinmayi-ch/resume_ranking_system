@@ -26,9 +26,7 @@ An intelligent resume ranking system that compares job descriptions with candida
 
 ## 📐 Architecture Diagram
 
-![Architecture](./architecture.png)
+![Architecture](./High_level_design.png)
 
----
 
-## 📦 Project Structure
 
